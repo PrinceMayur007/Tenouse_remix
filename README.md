@@ -40,3 +40,6 @@ Technology has immensely evolved in the last two decades. The major fields where
 2. Yash Maroo
 3. Muhib Shaikh
         - The Blinnk Team
+
+### A initial contributor to the project :
+1. Safir Motiwala
