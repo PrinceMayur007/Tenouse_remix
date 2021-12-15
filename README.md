@@ -1,7 +1,7 @@
 # Tenouse
 ### AI based intimation of houses for Tenants, Landlords and Other Folks
 
-![Tenouse Application]()
+![Tenouse Application](https://github.com/PrinceMayur007/Tenouse_remix/blob/main/RawData/Home.png)
 
 ## Getting Started
 
